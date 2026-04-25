@@ -13,3 +13,9 @@ const sum = (a, b) => {
 };
 
 console.log(sum(1, 2));
+
+const mutyply = (a, b) => {
+  return a * b;
+};
+
+// this is a comment
